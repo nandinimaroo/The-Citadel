@@ -3,10 +3,10 @@
 
 An SQL database called 'The Citadel' is created. It stores data pertaining to the popular TV show 'The Game of Thrones'.
 
-ERModel.jpg - the entity relationship model explaining the database schema
-database.sql - the SQL dump for creating the database 
-insert_data.sql - the SQL dump for inserting data into the database
-functionality.py - python script which executes queries for data retreival and updation on our database using pymysql.
+- ERModel.jpg : the entity relationship model explaining the database schema
+- database.sql : the SQL dump for creating the database 
+- insert_data.sql : the SQL dump for inserting data into the database
+- functionality.py : python script which executes queries for data retreival and updation on our database using pymysql.
 
 
 
